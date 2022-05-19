@@ -9,8 +9,8 @@ definir una API para gestionar nuestro propio equipo pokemon
 - Consultar informacion de nuestro equipo
 
 ## REST Desing:
-- Añadir pokemon: POST /team/pokemons
-- Consultar nuestro equipo: GET /team
-- Eliminar pokemon de nuestro equipo: DELETE /team/pokemon/:id
-- Intercambiar el orden de nuestros pokemons: PUT /team
+- Añadir pokemon: `POST` /team/pokemons
+- Consultar nuestro equipo: `GET` /team
+- Eliminar pokemon de nuestro equipo: `DELETE` /team/pokemon/:id
+- Intercambiar el orden de nuestros pokemons: `PUT` /team
 - Sistemas de credenciales
